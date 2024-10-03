@@ -1,0 +1,114 @@
+.box1{
+	background-color: lightblue;
+	border-radius: 30px;
+}
+.box2{
+	background-color: black;
+	color: white;
+	width: 300px;
+    height: 129px;
+    font-size: 50px;
+}
+.box3{
+	background-color: bisque;
+	color: black;
+	width: 200px;
+    height: 129px;
+    font-size: 50px;
+}
+
+
+.parallax-window {
+	min-height: 400px;
+	background: transparent;
+}
+.parallax {
+2
+  background-image      :url('d1.jpg');
+3
+  background-size       : cover;
+4
+  background-position-x :50%;
+5
+  background-position-y :0%;
+6
+  background-repeat     :no-repeat;
+7
+  height:500px;
+8
+}
+
+.can{
+	min-height: 500px;
+}
+.my-element {
+  display: inline-block;
+  margin: 0 0.5rem;
+  
+  animation: bounce; 
+  animation-duration: 2s;
+}
+.color{
+	background-color: lightblue;
+  color: black;
+}
+
+.my-element {
+  display: inline-block;
+  margin: 0 0.5rem;
+  
+  animation: heartBeat; 
+  animation-duration: 2s;
+}
+
+.color1{
+	background-color: teal;
+  color: white;
+}
+
+.mt{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+
+
+
+.a,.b,.c,.d{
+margin-top: 50px;
+	margin-bottom: 50px;
+width: 100px;
+height: 100px;
+color: white;
+background-color:teal ;
+
+}
+
+#text1
+{
+    margin:           3.0em 0.0em;
+    overflow:         hidden;
+    font:             normal normal normal 2.0em/1.5 'Open Sans Light', sans-serif;
+    color:            #ffffff;
+    background-color: #3fafee;
+}
+
+#text2
+{
+    margin:           3.0em auto;
+    overflow:         hidden;
+    width:            50%;
+    font:             normal normal normal 2.0em/1.5 'Open Sans Light', sans-serif;
+    color:            #ffffff;
+    background-color: #fbab11;
+}
+
+
+#text3
+{
+    margin:           3.0em auto;
+    overflow:         hidden;
+    font:             normal normal normal 2.0em/1.5 'Open Sans Light', sans-serif;
+    color:            #ffffff;
+    background-color: #d81c82;
+}
